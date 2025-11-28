@@ -1,0 +1,1 @@
+Transorale partielle Resektion des Pharynx [Pharynxteilresektion] sonstige[5-295.0x ] Sonstige partielle Resektion des Pharynx [Pharynxteilresektion] ohne Rekonstruktion[5-295.x0 ] Permanente Tracheotomie[5-312.0 ] Anlegen einer PEG[5-431.2 ] Diagnostische Ösophagogastroskopie[1-631 ] Sonstige diagnostische Pharyngoskopie[1-611.x ]

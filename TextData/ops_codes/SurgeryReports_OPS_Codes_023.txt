@@ -1,0 +1,1 @@
+Transorale partielle Resektion des Pharynx [Pharynxteilresektion] sonstige[5-295.0x ] Exzision Zungengewebe[5-250.2 ] Weichgaumenteilresektion[5-272.1 ] Sonstige diagnostische Ösophagogastroskopie[1-631.x ] Direkte diagnostische Pharyngoskopie[1-611.0 ] Direkte diagnostische Laryngoskopie[1-610.0 ] Biopsie an der Supraglottis durch Inzision[1-549.0 ]

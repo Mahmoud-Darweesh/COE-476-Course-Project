@@ -1,0 +1,16 @@
+label,precision,recall,f1,support,experiment,report_type
+"C77.0       1.00      0.67      0.80         3
+       C32.0       0.55      1.00      0.71        11
+       C10.8       0.81      1.00      0.90        13
+       C02.1       0.80      1.00      0.89         8
+       C13.8       0.67      1.00      0.80         8
+       C32.8       0.55      1.00      0.71         6
+       C04.0       0.00      0.00      0.00         0
+       C32.1       1.00      0.80      0.89         5
+         C01       0.00      0.00      0.00         0
+       C09.0       0.12      0.50      0.20         2
+
+   micro avg       0.64      0.95      0.76        56
+   macro avg       0.55      0.70      0.59        56
+weighted avg       0.71      0.95      0.79        56
+ samples avg",0.72,0.94,0.79,56,bert_base__real+synthetic+focused__top10,report

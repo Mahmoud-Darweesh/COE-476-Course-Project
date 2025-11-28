@@ -1,0 +1,1 @@
+Partielle Glossektomie: Transoral: Sonstige[5-251.0x ] Diagnostische Laryngoskopie: Direkt[1-610.0 ] Diagnostische Laryngoskopie: Mikrolaryngoskopie[1-610.2 ] Diagnostische Pharyngoskopie: Direkt[1-611.0 ] Diagnostische Ösophagoskopie: Mit flexiblem Instrument[1-630.0 ]

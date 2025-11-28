@@ -1,0 +1,1 @@
+Sonstige diagnostische Tracheobronchoskopie[1-620.x ] Direkte diagnostische Laryngoskopie[1-610.0 ] Sonstige diagnostische Pharyngoskopie[1-611.x ] Indirekte Epipharyngoskopie[1-611.1 ] Gaumenbogentumor-Exstirpation[5-272.0 ] Biopsie am Hypopharynx durch Inzision[1-547 ] Biopsie ohne Inzision Pharynx sonstige Lokalisation[1-422.x ]

@@ -1,0 +1,1 @@
+Diagnostische Pharyngoskopie: Direkt[1-611.0 ] Diagnostische Laryngoskopie: Direkt[1-610.0 ] Gastrostomie: Perkutan-endoskopisch (PEG)[5-431.2 ] Radikale zervikale Lymphadenektomie [Neck dissection]: Selektiv (funktionell): 5 Regionen[5-403.04 B] Laryngektomie: Mit Pharyngektomie[5-303.1 ] Permanente Tracheostomie: Tracheotomie[5-312.0 ]

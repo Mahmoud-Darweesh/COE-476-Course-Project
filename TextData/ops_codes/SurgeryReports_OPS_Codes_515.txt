@@ -1,0 +1,1 @@
+Diagnostische Laryngoskopie: Direkt[1-610.0 ] Diagnostische Pharyngoskopie: Direkt[1-611.0 ] Diagnostische Tracheobronchoskopie: Mit starrem Instrument[1-620.1 ] Diagnostische Ösophagogastroskopie[1-631 ] Biopsie sonstiger Strukturen Mund und Mundhöhle durch Inzision[1-545.x ]

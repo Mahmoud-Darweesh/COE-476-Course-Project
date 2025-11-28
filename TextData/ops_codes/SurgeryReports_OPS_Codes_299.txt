@@ -1,0 +1,1 @@
+Inzision Zungengrund[5-250.x ] Lokale Exzision erkranktes Gewebe Pharynx[5-292.0 ] Temporäre Tracheotomie[5-311.0 ] Anwendung eines komplexen OP-Roboters (Zusatzkode)[5-987.0 ] Direkte diagnostische Laryngoskopie[1-610.0 ] Direkte diagnostische Pharyngoskopie[1-611.0 ] Partielle Glossektomie transoral sonstige[5-251.0x ]

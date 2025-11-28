@@ -1,0 +1,1 @@
+Partielle Glossektomie transoral sonstige[5-251.0x ] Transorale partielle Resektion des Pharynx ohne Rekonstruktion[5-295.00 ] Endoskopische Laserresektion am Larynx[5-302.5 ] Anlegen einer PEG[5-431.2 ] Sonstige diagnostische Pharyngoskopie[1-611.x ] Direkte diagnostische Laryngoskopie[1-610.0 ] Permanente Tracheotomie[5-312.0 ]

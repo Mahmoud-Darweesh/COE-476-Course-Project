@@ -1,0 +1,1 @@
+Partielle Glossektomie transoral sonstige[5-251.0x ] Diagnostische Ösophagogastroskopie[1-631 ] Direkte diagnostische Pharyngoskopie[1-611.0 ] Direkte diagnostische Laryngoskopie[1-610.0 ] Endoskopische Biopsie Ösophagus [1-5 Biopsien][1-440.a ] Biopsie ohne Inzision Larynx sonstige Lokalisation[1-421.x ] Biopsie an der Zunge ohne Inzision[1-420.1 ]

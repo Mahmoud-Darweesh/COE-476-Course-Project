@@ -1,0 +1,11 @@
+label,precision,recall,f1,support,experiment,report_type
+"C02.       0.50      0.75      0.60         8
+        C10.       0.48      0.77      0.59        13
+        C13.       0.50      0.12      0.20         8
+        C32.       0.58      1.00      0.73        11
+        C77.       0.00      0.00      0.00         3
+
+   micro avg       0.52      0.65      0.58        43
+   macro avg       0.41      0.53      0.42        43
+weighted avg       0.48      0.65      0.51        43
+ samples avg",0.52,0.67,0.57,43,hier_clinbert__synthetic+focused__top5,parent_report

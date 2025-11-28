@@ -1,0 +1,1 @@
+Patient with external histology of a squamous cell carcinoma. As this needs to be confirmed again, a test biopsy with a frozen section is performed on the ward before the start of surgery. <CLINICIAN_NAME> decides on squamous cell carcinoma.

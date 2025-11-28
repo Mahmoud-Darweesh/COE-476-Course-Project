@@ -1,0 +1,16 @@
+label,precision,recall,f1,support,experiment,report_type
+"C77.0       0.00      0.00      0.00         3
+       C32.0       1.00      0.91      0.95        11
+       C10.8       1.00      0.38      0.56        13
+       C02.1       1.00      0.50      0.67         8
+       C13.8       0.00      0.00      0.00         8
+       C32.8       0.00      0.00      0.00         6
+       C04.0       0.00      0.00      0.00         0
+       C32.1       0.00      0.00      0.00         5
+         C01       0.00      0.00      0.00         0
+       C09.0       0.00      0.00      0.00         2
+
+   micro avg       1.00      0.34      0.51        56
+   macro avg       0.30      0.18      0.22        56
+weighted avg       0.57      0.34      0.41        56
+ samples avg",0.35,0.35,0.35,56,tfidf_lr__real+synthetic+focused__top10,report
