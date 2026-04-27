@@ -1,0 +1,5 @@
+endpoint,has_clinical,mean_weighted_f1,n_rows
+rec,True,0.982247740961973,80
+rec,False,0.7241853851488603,75
+surv,True,0.786060510169803,80
+surv,False,0.6146767886961504,75
